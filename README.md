@@ -1,8 +1,11 @@
 # MACD Indicator Trading Strategy Analysis
+<div align="center">
+    <img src="./macd_zawodzi.png" alt=" Screenshot" />
+</div>
 
 ## Description
 This project analyzes the use of the MACD (Moving Average Convergence Divergence) indicator for trading strategies involving the cryptocurrency Litecoin (LTC) against USD Tether (USDT). The analysis spans different market conditions including bullish (hossa), sideways (boczny), and general market conditions, incorporating the use of additional indicators like RSI (Relative Strength Index) to enhance decision-making.
-A more detailed report is available in the file `sprawozdanie.pdf`.
+A more detailed report is available in the file **`sprawozdanie.pdf`**.
 
 ## Files
 - `macd.py`: General analysis of the MACD indicator over a period from 01.01.2018.
